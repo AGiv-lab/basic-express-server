@@ -106,4 +106,4 @@ flowchart TD
 ## Deployment
 
 - Pull request: [https://github.com/AGiv-lab/basic-express-server/pull/1](https://github.com/AGiv-lab/basic-express-server/pull/1)
-- Render deployment: `RENDER URL GOES HERE`
+- Render deployment: [https://basic-express-server-20xs.onrender.com](https://basic-express-server-20xs.onrender.com)
